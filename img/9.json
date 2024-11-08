@@ -1,0 +1,15 @@
+{
+  "name": "Your Collection #9",
+  "description": "Chicken",
+  "image": "ipfs://QmeNw5yRnJAWduXXC2ccLRJNG9MNk84WYhQ6KLr9TaqcmJ/9.png",
+  "dna": "cd18f6771b84966b999b37a850f6f2e17de7c80d",
+  "edition": 9,
+  "date": 1730791682874,
+  "attributes": [
+    {
+      "trait_type": "Chicken",
+      "value": "6"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
